@@ -8,7 +8,9 @@ O funcionamento será basicamente os usuários entrarem no game na mesma "sala" 
 # Componentes
 
 Cliente
+
 Servidor
+
 Aplicação 
 
 # Testes
