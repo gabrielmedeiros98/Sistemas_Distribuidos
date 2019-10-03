@@ -11,6 +11,11 @@
         <artifactId>maven-compiler-plugin</artifactId>
         <version>3.8.0</version>
         <configuration>
+          <archive>
+            <manifest>
+              <mainClass>com.trabalhosd.tictactoe.TicTacToe</mainClass>
+            </manifest>
+          </archive>        
           <source>1.7</source>
           <target>1.7</target>
         </configuration>
